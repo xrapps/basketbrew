@@ -7,7 +7,7 @@ export const COLORS = {
   background: '#BBF246',
   gray: '#DCDCDC',
   placeholder: '#999999',
-  red: '#FF3752',
+  red: '#E50046',
   blue: '#0096B2',
   drawerBackgroundColor: '#ECECEC',
 };
